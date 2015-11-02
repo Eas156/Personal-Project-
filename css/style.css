@@ -1,0 +1,69 @@
+body{
+
+	color:black;
+	background:gray;
+	border:15px solid black;
+	font-size:20px; 
+	font-family:sans-serif;
+}
+	
+li{ 
+
+	color:gray;
+	text-decoration: none;
+	margin:-70px;
+	padding-top: 80px;
+	padding-left: 55px;
+	
+}
+li a:hover{
+	text-decoration: underline;
+	color:black;
+}
+
+img { 
+	float: right; 
+    border:5PX solid black;
+    margin: 55px;
+    padding-top: -20px;
+
+    
+ }
+
+p{
+	color:black;
+
+
+}
+
+a {
+	color:gold;
+	letter-spacing:5px;
+	text-decoration: none;
+}
+h1 {
+	text-shadow: 5px 10px 2px black;
+}
+
+
+
+h3{ 
+	text-shadow: 5px 5px 2px black;
+	font-size: 25px;
+}
+
+.me{
+	text-align: center;
+	padding-top: 115px;
+	padding-bottom: 68px;
+	
+}
+.about{
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 19px;
+
+	
+
+}
