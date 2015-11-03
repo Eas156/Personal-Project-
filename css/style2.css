@@ -1,0 +1,68 @@
+body{
+
+	color:black;
+	background:gray;
+	border:15px solid black;
+	font-size:20px; 
+	font-family:sans-serif;
+}
+	
+li{ 
+
+	color:gray;
+	text-decoration: none;
+	margin:-70px;
+	padding-top: 80px;
+	padding-left: 55px;
+	
+}
+li a:hover{
+	text-decoration: underline;
+	color:black;
+}
+
+img { 
+	float: right; 
+    border:5px solid black;
+    margin: 60px;
+	    padding-top: -20px;
+
+    
+ }
+
+p{
+	color:black;
+	font-size: 23px;
+
+
+}
+
+a {
+	color:gold;
+	letter-spacing:5px;
+	text-decoration: none;
+}
+h1 {
+	text-shadow: 5px 10px 2px black;
+}
+
+
+
+h3{ 
+	text-shadow: 5px 5px 2px black;
+	font-size: 25px;
+}
+
+#Me{
+	text-align: center;
+	padding-top: 120px;
+	padding-bottom: 100px;
+	
+}
+#About{
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: -30px;
+
+	
