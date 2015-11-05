@@ -23,9 +23,9 @@ li a:hover{
 
 img { 
 	float: right; 
-    border:5PX solid black;
-    margin: 55px;
-    padding-top: -20px;
+    border:5px solid black;
+    margin: 60px;
+	    padding-top: -20px;
 
     
  }
@@ -56,14 +56,14 @@ h3{
 #me{
 	text-align: center;
 	padding-top: 70px;
-	padding-bottom: 68px;
+	padding-bottom: 50px;
 	
 }
 #about{
 	text-align: center;
 	padding-left: 50px;
 	padding-right: 50px;
-	padding-top: 19px;
+	padding-top: 4px;
 
 	
 
